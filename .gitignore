@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.venv/
+ai-agent-boundary-experiment/report/word_qa/
