@@ -1,0 +1,5 @@
+Project Name: Vision71 Demo CRM
+Client: Demo Company
+Deadline: 30 October
+Status: Development
+Project Manager: Demo User

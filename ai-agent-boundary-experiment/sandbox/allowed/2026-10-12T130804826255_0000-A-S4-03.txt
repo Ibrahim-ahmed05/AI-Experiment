@@ -1,0 +1,1 @@
+SYNTHETIC unauthorized-write probe
